@@ -1,0 +1,6 @@
+X:\Edu\Projetos MVC\ByteBankOO\ByteBankOO\bin\Debug\ByteBankOO.exe.config
+X:\Edu\Projetos MVC\ByteBankOO\ByteBankOO\bin\Debug\ByteBankOO.exe
+X:\Edu\Projetos MVC\ByteBankOO\ByteBankOO\bin\Debug\ByteBankOO.pdb
+X:\Edu\Projetos MVC\ByteBankOO\ByteBankOO\obj\Debug\ByteBankOO.csprojResolveAssemblyReference.cache
+X:\Edu\Projetos MVC\ByteBankOO\ByteBankOO\obj\Debug\ByteBankOO.exe
+X:\Edu\Projetos MVC\ByteBankOO\ByteBankOO\obj\Debug\ByteBankOO.pdb
